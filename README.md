@@ -1,6 +1,6 @@
 ### About
 
-CSS framework themes for Pico CMS v0.*.
+CSS framework themes for Pico CMS v0.X.
 
 ### About Pico
 
