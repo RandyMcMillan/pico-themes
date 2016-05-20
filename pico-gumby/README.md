@@ -4,7 +4,7 @@ Gumby 2 theme for Pico CMS.
 
 ### Installation
 
-1. Clone this repository to a new folder named pico-gumby and move it to the Pico themes directory.
+1. Move this to the Pico themes directory.
 2. Open `config.php`, from the root Pico directory, and rename the theme: `$config['theme'] = 'pico-gumby';`.
 
 ### About Gumby
